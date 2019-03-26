@@ -1,0 +1,17 @@
+ua:
+  nav_mn:
+    new_title: 'Нова Стаття'
+  common:
+    errors: "При заповненні форми виникли проблеми :("
+    back: 'Назад'
+  posts: 
+    index:
+      title: 'Статті'
+    new:
+      title: 'Нова стаття'
+    edit:
+      title: 'Редагування статті'
+    form:
+      submit:
+        '%{action} статтю'
+  
